@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anil10051997
+- 👋 Hi, I’m Anil
  
 - 🌱 I’m currently learning SAP CAPM
 - 
